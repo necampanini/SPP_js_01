@@ -38,4 +38,11 @@
 - it isn't the prettiest, but its efficient and has strong integration
 - you will see the files you modified under either included changes or excluded
 - right click the files to move them to either list. Think of this as 'git add fileName.html'
+- MAKE SURE you are on your branch
+- it should say "Branch: name" just above the text input for your commit message
 - enter a message, and commit!
+- A message appears saying your Commit has been created locally. SYNC to share etcetc
+- click Sync. it's blue.
+- this moves you to the Unsynced Commits pane.
+- you can sync, pull, or push from here. Sync just pulls before pushing.
+- MORE TO COME.
