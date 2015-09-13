@@ -1,4 +1,6 @@
-﻿- Goto the SPP_js_01 repository on GitHub
+﻿* Check new assignment.md !
+
+- Goto the SPP_js_01 repository on GitHub
 - copy the URL to clone
 - Open Visual Studio 2013
 - In the Start Page, under "Start" you should see "Open from Source Control"
