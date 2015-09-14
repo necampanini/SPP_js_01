@@ -1,4 +1,5 @@
-﻿* Check new assignment.md !
+* Update 9/14
+** Check new assignment.md
 
 - Goto the SPP_js_01 repository on GitHub
 - copy the URL to clone
