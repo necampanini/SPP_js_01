@@ -3,7 +3,7 @@
 var factorial = 0;//keeps track of current factorial number
 
 
-function calc() {
+function calc() {//
     while (true)//breaks automatically at 0.
     {
         //we start by knowing the first number.
